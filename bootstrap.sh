@@ -264,4 +264,4 @@ $tput sgr0
 
 verb rm -v "$0"
 
-# Note to self: consider rewriting this in Python?
+# Note to self: consider rewriting this in Python? 
