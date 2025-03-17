@@ -18,4 +18,4 @@ def test_main(tmp_path: Path):
     # assert behavior is expected
     expected_output_file = outputdir / 'plaintext.count.txt'
     assert expected_output_file.exists()
-    assert expected_output_file.read_text() == '2'
+    assert expected_output_file.read_text() == '2' 
